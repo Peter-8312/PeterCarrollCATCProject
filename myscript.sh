@@ -1,5 +1,8 @@
 # This script displays various system information
 
+#Redirect output of each command to text file
+exec >> peterCarroll.txt
+
 echo "Current Date and Time:"
 date
 
