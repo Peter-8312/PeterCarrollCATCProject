@@ -6,7 +6,7 @@ This repository contains a shell script created for a university project. The sc
 
 ## 📌 Project Overview
 
-This was a **research and scripting project** for a Computing and Technology in Context (CATC) module. The goal was to build a simple interactive shell script that:
+This was a **research and scripting project** for a Computer Architecture and Convergence (CATC) module. The goal was to build a simple interactive shell script that:
 
 - Accepts a **starting salary**
 - Asks for the **number of points** on the salary scale
